@@ -1,0 +1,2 @@
+This is a highly unbalanced binary classification dataset. Most of the columns have PCA applied on it. 
+I have first done undersampling to reduce over-fitting, then tested it on several models like Logistice Regression, Neural Network(ANN) and xgboost 
